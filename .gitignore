@@ -1,0 +1,7 @@
+.nvimlog
+.nvim
+a.out
+example
+test
+object/
+libstratum.so*

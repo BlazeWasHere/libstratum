@@ -1,6 +1,6 @@
 # libstratum
 
-A minimal [stratum protocol](https://en.bitcoin.it/wiki/Stratum_mining_protocol) wrapper tailered for the zcash variant.
+A minimal [stratum protocol](https://en.bitcoin.it/wiki/Stratum_mining_protocol) wrapper tailored for the zcash variant.
 
 # API
 
